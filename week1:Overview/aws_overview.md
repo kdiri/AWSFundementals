@@ -1,6 +1,5 @@
 #AWS Overview Notes
-
-
+------
 ## What Is Cloud Computing?
 Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
 

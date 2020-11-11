@@ -1,5 +1,5 @@
 # AWS Infrastructure Notes
-
+------
 
 The AWS Cloud infrastructure is built around Regions and Availability Zones. AWS Regions provide multiple, physically separated, and isolated Availability Zones that are connected with low latency, high throughput, and highly redundant networking.
 
