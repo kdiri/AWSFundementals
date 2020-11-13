@@ -1,5 +1,7 @@
 # Compute Services Notes
+
 ------
+
 Building and running your application starts with compute, whether you are building enterprise, cloud-native, or mobile applications; or running massive clusters to sequence the human genome.
 
 AWS offers a comprehensive portfolio of compute services that allow you to develop, deploy, run, and scale your applications and workloads in the world’s most powerful, secure, and innovative compute cloud.
@@ -10,10 +12,10 @@ Later in this module, you will learn about both Amazon Elastic Compute Cloud (Am
 
 Both serverless computing and container services are beyond the scope of this class. We will cover these topics in subsequent courses, but the following descriptions provide an introduction to some of the key services for serverless computing and containers.
 
-AWS Lambda
-AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume--there is no charge when your code isn't running. Additional information about Lambda can be found at: https://aws.amazon.com/lambda
+### AWS Lambda
+AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume. There is no charge when your code isn't running. Additional information about Lambda can be found at: https://aws.amazon.com/lambda
 
-AWS Container Services
+### AWS Container Services
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers. It allows you to run and scale containerized applications on AWS. You can find more details at: https://aws.amazon.com/ecs/
 
 Amazon Elastic Container Service for Kubernetes (Amazon EKS) makes it straightforward to deploy, manage, and scale containerized applications that use Kubernetes on AWS. Details can be found at: https://aws.amazon.com/eks/
