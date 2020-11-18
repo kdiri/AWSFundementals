@@ -14,7 +14,7 @@ This content is part of [Amazon Web Services (AWS) Prescriptive Guidance](https:
 
 [This post ](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)outlines 6 different migration strategies we see customers implement to migrate applications to the cloud. Using this knowledge, you can begin to outline a plan on how you’ll approach migrating each of the applications in your portfolio, and in what order.
 
-![6R](../images/6r.png)
+![6R](6r.png)
 
 ### How to Migrate
 
