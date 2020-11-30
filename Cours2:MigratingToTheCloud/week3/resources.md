@@ -13,6 +13,8 @@ AWS has many storage services that you are able to utilize for both block and ob
 - [Amason EBS Volume Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
 - [Amason Simple Storage Service (Amazon S3)](https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html)
 
+![EFS](images/NFS.png)
+
 ###  Data Transfer
 
 Just as you should understand that secure data transfer is important, you should also consider that there are different types and styles of data transfer between environments. Whether a one-time migration, or ongoing data synchronization across environments, there are tools within AWS that can assist. Checkout the following links to learn more about each topic:
